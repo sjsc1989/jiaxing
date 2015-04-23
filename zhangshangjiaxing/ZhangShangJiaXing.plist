@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+   <key>items</key>
+   <array>
+       <dict>
+           <key>assets</key>
+           <array>
+               <dict>
+                   <key>kind</key>
+                   <string>software-package</string>
+                   <key>url</key>
+                   <string>https://nb.baidupcs.com/file/c247038d506f3fe3910d88376b764731?bkt=p2-nb-540&fid=1985982795-250528-45751910490875&time=1429685136&sign=FDTAXERLBH-DCb740ccc5511e5e8fedcff06b081203-ivq4z3%2B5UAI32nIos8km7b%2B7%2FG4%3D&to=nbb&fm=Nin,B,T,t&newver=1&newfm=1&flow_ver=3&sl=81002572&expires=8h&rt=pr&r=295219854&mlogid=2984282603&vuk=1985982795&vbdid=723546807&fin=ZhangShangJiaXing.ipa&fn=ZhangShangJiaXing.ipa&slt=pm&uta=0</string>
+               </dict>
+               <dict>
+                   <key>kind</key>
+                   <string>display-image</string>
+                   <key>needs-shine</key>
+                   <true/>
+                   <key>url</key>
+                   <string>https://qd.baidupcs.com/file/fe9e2498a3cb9c9743f66760c17b2166?bkt=p2-nb-540&fid=1985982795-250528-602151761088879&time=1429665124&sign=FDTAXERBH-DCb740ccc5511e5e8fedcff06b081203-pl9jVHIucIJe1jlS%2B5L5iSbRMwk%3D&to=qb&fm=Nin,B,T,t&newver=1&newfm=1&flow_ver=3&expires=8h&rt=pr&r=757775596&mlogid=2958978069&vuk=1985982795&vbdid=723546807&fin=appicon_ios.png&fn=appicon_ios.png&slt=pm&uta=0</string>
+               </dict>
+           </array>
+		   <key>metadata</key>
+           <dict>
+               <key>bundle-identifier</key>
+               <string>jxrb.ZhangShangJiaXing</string>
+               <key>bundle-version</key>
+               <string>2.0</string>
+               <key>kind</key>
+               <string>software</string>
+               <key>subtitle</key>
+               <string>掌上嘉兴</string>
+               <key>title</key>
+               <string>掌上嘉兴</string>
+           </dict>
+       </dict>
+   </array>
+</dict>
+</plist>
